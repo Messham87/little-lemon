@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "little-lemon",
-    "slug": "little-lemon",
+    "name": "little-lemon-app",
+    "slug": "snack-d50b98ff-8b02-4248-be57-10a3d5494c6c",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "App for Coursera React Native Development Capstone"
   }
 }
